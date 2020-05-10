@@ -1,1 +1,2 @@
 Git rocksgit init
+that is easygit commit --message First comment 
